@@ -23,6 +23,15 @@
 		4B2DE9CD16F4F5C70076FC2F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B2DE9A816F4F5C70076FC2F /* Foundation.framework */; };
 		4B2DE9D516F4F5C70076FC2F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4B2DE9D316F4F5C70076FC2F /* InfoPlist.strings */; };
 		4B2DE9D816F4F5C70076FC2F /* IOS_12_B3_HinhHocTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9D716F4F5C70076FC2F /* IOS_12_B3_HinhHocTests.m */; };
+		4B2DE9F316F4F5F20076FC2F /* Circle.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9E216F4F5F20076FC2F /* Circle.m */; };
+		4B2DE9F516F4F5F20076FC2F /* Hinh.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9E616F4F5F20076FC2F /* Hinh.m */; };
+		4B2DE9F616F4F5F20076FC2F /* Trapezoidal.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9E816F4F5F20076FC2F /* Trapezoidal.m */; };
+		4B2DE9F716F4F5F20076FC2F /* Rectangular.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9EA16F4F5F20076FC2F /* Rectangular.m */; };
+		4B2DE9F816F4F5F20076FC2F /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9EC16F4F5F20076FC2F /* Square.m */; };
+		4B2DE9F916F4F5F20076FC2F /* Parallelogram.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9EE16F4F5F20076FC2F /* Parallelogram.m */; };
+		4B2DE9FA16F4F5F20076FC2F /* Triangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9F016F4F5F20076FC2F /* Triangle.m */; };
+		4B2DE9FB16F4F5F20076FC2F /* TuGiac.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9F216F4F5F20076FC2F /* TuGiac.m */; };
+		4B2DE9FE16F510C80076FC2F /* Ellipse.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B2DE9FD16F510C80076FC2F /* Ellipse.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +67,24 @@
 		4B2DE9D416F4F5C70076FC2F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4B2DE9D616F4F5C70076FC2F /* IOS_12_B3_HinhHocTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IOS_12_B3_HinhHocTests.h; sourceTree = "<group>"; };
 		4B2DE9D716F4F5C70076FC2F /* IOS_12_B3_HinhHocTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IOS_12_B3_HinhHocTests.m; sourceTree = "<group>"; };
+		4B2DE9E116F4F5F20076FC2F /* Circle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Circle.h; path = ../../HinhHoc/HinhHoc/Circle.h; sourceTree = "<group>"; };
+		4B2DE9E216F4F5F20076FC2F /* Circle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Circle.m; path = ../../HinhHoc/HinhHoc/Circle.m; sourceTree = "<group>"; };
+		4B2DE9E516F4F5F20076FC2F /* Hinh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Hinh.h; path = ../../HinhHoc/HinhHoc/Hinh.h; sourceTree = "<group>"; };
+		4B2DE9E616F4F5F20076FC2F /* Hinh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Hinh.m; path = ../../HinhHoc/HinhHoc/Hinh.m; sourceTree = "<group>"; };
+		4B2DE9E716F4F5F20076FC2F /* Trapezoidal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Trapezoidal.h; path = ../../HinhHoc/HinhHoc/Trapezoidal.h; sourceTree = "<group>"; };
+		4B2DE9E816F4F5F20076FC2F /* Trapezoidal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Trapezoidal.m; path = ../../HinhHoc/HinhHoc/Trapezoidal.m; sourceTree = "<group>"; };
+		4B2DE9E916F4F5F20076FC2F /* Rectangular.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Rectangular.h; path = ../../HinhHoc/HinhHoc/Rectangular.h; sourceTree = "<group>"; };
+		4B2DE9EA16F4F5F20076FC2F /* Rectangular.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Rectangular.m; path = ../../HinhHoc/HinhHoc/Rectangular.m; sourceTree = "<group>"; };
+		4B2DE9EB16F4F5F20076FC2F /* Square.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Square.h; path = ../../HinhHoc/HinhHoc/Square.h; sourceTree = "<group>"; };
+		4B2DE9EC16F4F5F20076FC2F /* Square.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Square.m; path = ../../HinhHoc/HinhHoc/Square.m; sourceTree = "<group>"; };
+		4B2DE9ED16F4F5F20076FC2F /* Parallelogram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Parallelogram.h; path = ../../HinhHoc/HinhHoc/Parallelogram.h; sourceTree = "<group>"; };
+		4B2DE9EE16F4F5F20076FC2F /* Parallelogram.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Parallelogram.m; path = ../../HinhHoc/HinhHoc/Parallelogram.m; sourceTree = "<group>"; };
+		4B2DE9EF16F4F5F20076FC2F /* Triangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Triangle.h; path = ../../HinhHoc/HinhHoc/Triangle.h; sourceTree = "<group>"; };
+		4B2DE9F016F4F5F20076FC2F /* Triangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Triangle.m; path = ../../HinhHoc/HinhHoc/Triangle.m; sourceTree = "<group>"; };
+		4B2DE9F116F4F5F20076FC2F /* TuGiac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TuGiac.h; path = ../../HinhHoc/HinhHoc/TuGiac.h; sourceTree = "<group>"; };
+		4B2DE9F216F4F5F20076FC2F /* TuGiac.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TuGiac.m; path = ../../HinhHoc/HinhHoc/TuGiac.m; sourceTree = "<group>"; };
+		4B2DE9FC16F510C70076FC2F /* Ellipse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ellipse.h; sourceTree = "<group>"; };
+		4B2DE9FD16F510C80076FC2F /* Ellipse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ellipse.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +144,24 @@
 		4B2DE9AC16F4F5C70076FC2F /* IOS_12_B3_HinhHoc */ = {
 			isa = PBXGroup;
 			children = (
+				4B2DE9FC16F510C70076FC2F /* Ellipse.h */,
+				4B2DE9FD16F510C80076FC2F /* Ellipse.m */,
+				4B2DE9E116F4F5F20076FC2F /* Circle.h */,
+				4B2DE9E216F4F5F20076FC2F /* Circle.m */,
+				4B2DE9E516F4F5F20076FC2F /* Hinh.h */,
+				4B2DE9E616F4F5F20076FC2F /* Hinh.m */,
+				4B2DE9E716F4F5F20076FC2F /* Trapezoidal.h */,
+				4B2DE9E816F4F5F20076FC2F /* Trapezoidal.m */,
+				4B2DE9E916F4F5F20076FC2F /* Rectangular.h */,
+				4B2DE9EA16F4F5F20076FC2F /* Rectangular.m */,
+				4B2DE9EB16F4F5F20076FC2F /* Square.h */,
+				4B2DE9EC16F4F5F20076FC2F /* Square.m */,
+				4B2DE9ED16F4F5F20076FC2F /* Parallelogram.h */,
+				4B2DE9EE16F4F5F20076FC2F /* Parallelogram.m */,
+				4B2DE9EF16F4F5F20076FC2F /* Triangle.h */,
+				4B2DE9F016F4F5F20076FC2F /* Triangle.m */,
+				4B2DE9F116F4F5F20076FC2F /* TuGiac.h */,
+				4B2DE9F216F4F5F20076FC2F /* TuGiac.m */,
 				4B2DE9B516F4F5C70076FC2F /* AppDelegate.h */,
 				4B2DE9B616F4F5C70076FC2F /* AppDelegate.m */,
 				4B2DE9BE16F4F5C70076FC2F /* ViewController.h */,
@@ -273,6 +318,15 @@
 				4B2DE9B316F4F5C70076FC2F /* main.m in Sources */,
 				4B2DE9B716F4F5C70076FC2F /* AppDelegate.m in Sources */,
 				4B2DE9C016F4F5C70076FC2F /* ViewController.m in Sources */,
+				4B2DE9F316F4F5F20076FC2F /* Circle.m in Sources */,
+				4B2DE9F516F4F5F20076FC2F /* Hinh.m in Sources */,
+				4B2DE9F616F4F5F20076FC2F /* Trapezoidal.m in Sources */,
+				4B2DE9F716F4F5F20076FC2F /* Rectangular.m in Sources */,
+				4B2DE9F816F4F5F20076FC2F /* Square.m in Sources */,
+				4B2DE9F916F4F5F20076FC2F /* Parallelogram.m in Sources */,
+				4B2DE9FA16F4F5F20076FC2F /* Triangle.m in Sources */,
+				4B2DE9FB16F4F5F20076FC2F /* TuGiac.m in Sources */,
+				4B2DE9FE16F510C80076FC2F /* Ellipse.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,6 +507,7 @@
 				4B2DE9DD16F4F5C70076FC2F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4B2DE9DE16F4F5C70076FC2F /* Build configuration list for PBXNativeTarget "IOS_12_B3_HinhHocTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +516,7 @@
 				4B2DE9E016F4F5C70076FC2F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
