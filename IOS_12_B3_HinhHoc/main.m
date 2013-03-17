@@ -1,8 +1,8 @@
 //
 //  main.m
-//  IOS_12_B3_HinhHoc
+//  HinhHoc
 //
-//  Created by KienND on 3/17/13.
+//  Created by KienND on 3/16/13.
 //  Copyright (c) 2013 KienND. All rights reserved.
 //
 
